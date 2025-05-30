@@ -1,2 +1,3 @@
 some code.....
 blah blah 
+line 3
